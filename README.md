@@ -5,6 +5,6 @@ This is a documentation for beginners who wants to learn Oracle DBA stuffs, I'm 
 
 
 # Table of contents
-## Oracle CheatSheet
+
 ###Oracle Internals
 * [Memory Structure](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Oracle%20Internals/2.Memory%20Stucture.md)
