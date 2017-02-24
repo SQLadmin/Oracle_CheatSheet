@@ -18,6 +18,11 @@ This process is responsible for write the data from Data buffer cache to Data fi
 
 ### Log Writer Process(LGWR):
 This process is responsible for write redo logs from Redo buffer cache to Redo log files.
+**Some intersting points**
+1. Once the redo buffer write to the disk then the next redo buffer will for previous commits acknowledement.
+1. All other waiting redo buffers will write to the disk as a group commit. So the I/O will reduce.
+1. `DBWR` will write the data files after the Redo logs written to the Disk.
+
 
 ### Checkpoint Process:
 Checkpoints will occur when the transaction got committed, Once the transaction is committed then this process will update the header of the data files to record the details of the checkpoint.
