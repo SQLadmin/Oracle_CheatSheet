@@ -29,7 +29,7 @@ This process is responsible for write redo logs from Redo buffer cache to Redo l
 
 
 
-### Checkpoint Process:
+### Checkpoint Process(CKPT):
 Checkpoints will occur when the transaction got committed, Once the transaction is committed then this process will update the header of the data files to record the details of the checkpoint.
 
 ### System Monitor Process(SMON):
