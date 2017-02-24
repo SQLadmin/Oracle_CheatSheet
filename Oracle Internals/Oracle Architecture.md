@@ -37,12 +37,12 @@ So if the user has access to that table then it'll start getting the data from t
 
 All the changes which are happening inside the database will right Redo buffers first and flushed to the Redo log files.
 
-**Storage Block:** 
+## Storage Block:
 
 This block contains the actual physical data files such as Control files, Redo log files, password files, etc.
 
 
-**Background process Block:**
+## Background process Block:
 
 This block contains some background services which are owned by oracle. For example DBWR, this process will write the data from Data buffer cache to Data files and LGWR will write redo logs from redo buffer.
 
