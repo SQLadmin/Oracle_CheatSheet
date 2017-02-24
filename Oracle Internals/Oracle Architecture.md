@@ -1,3 +1,5 @@
+# Oracle Architrecture
+
 A well-crafted architecture will help the Oracle to do its best. Basically, the architecture is the both combination of physical and logical components. Here I have divided the Oracle's Architecture into four blocks.
 
 1. Process block
