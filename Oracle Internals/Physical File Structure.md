@@ -32,10 +32,10 @@ Pfile is a normal text file, this also contains the parameter to configure the I
 This file has the user names and passwords. This will use when a user login with SYSDBA privileges. 
 
 ## Data Files:
-It has the exact data that we insert into the database. 
+It has the exact data that we inserted into the database. 
 
 ## Control file: 
-The control file is the main part of oracle. it has the information about the all database names, database file names, tablespace names and their location. And also it contains the backup information of a database.
+The control file is the main part of oracle. It has the information about the all database names, database file names, tablespace names and their location. And also it contains the backup information of a database.
 
 ## Undo log files: 
 When you change data you should be able to either rollback that change or to provide a read consistent view of the original data.
