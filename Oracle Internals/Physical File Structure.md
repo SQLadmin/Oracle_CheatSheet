@@ -40,7 +40,7 @@ The control file is the main part of oracle. it has the information about the al
 ## Undo log files: 
 When you change data you should be able to either rollback that change or to provide a read consistent view of the original data.
 
-## edo log files:
+## Redo log files:
 Redo logs used for recovery purpose. It records all the activity. The transaction must be committed to the Redo logs first, then it'll commit to the data files.
 
 ## Alert files:
