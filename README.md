@@ -11,3 +11,4 @@ This is a documentation for beginners who wants to learn Oracle DBA stuffs, I'm 
 * [Memory Structure](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Oracle%20Internals/Memory%20Stucture.md)
 * [Background Processes](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Oracle%20Internals/Background%20Processes.md)
 * [Physical File Structure](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Oracle%20Internals/Physical%20File%20Structure.md)
+* [Technical Terms](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Oracle%20Internals/Technical%20Terms.md)
