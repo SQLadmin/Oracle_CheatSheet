@@ -25,6 +25,7 @@ Downloading Oracle in linux is a bit tricky. Oracle provide a shell schript to d
 
 
 4. Now type the below command to download via wget. 
+
 	```sh 
     wget <paste the like> -O filename.zip
     Eg: 
