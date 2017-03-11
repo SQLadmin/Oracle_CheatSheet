@@ -29,6 +29,8 @@ Downloading Oracle in linux is a bit tricky. Oracle provide a shell schript to d
 ```sh 
     wget <paste the like> -O filename.zip
     Eg: 
-    wget http://download.oracle.com/otn/linux/oracle12c/122010/linuxx64_12201_database.zip?AuthParam=111111111_cb3a26b3a63c89b4405a1e32822d19fc -O file1.zip```
+    wget http://download.oracle.com/otn/linux/oracle12c/122010/linuxx64_12201_database.zip?AuthParam=111111111_cb3a26b3a63c89b4405a1e32822d19fc -O file1.zip
+```
+
 
 ![](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Images/Oracledownload-wget.png)
