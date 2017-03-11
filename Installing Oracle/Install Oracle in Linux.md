@@ -169,7 +169,9 @@ sudo chown -R oracle:oracle /ora01/app/oracle/distribs/database
 sudo chmod -R 775 /ora01/app/oracle/distribs/database
 
 ```
->### Now Login as Oracle user .
+
+>### Now Login as Oracle user.
+
 
 **Edit and install db_install.rsp**
 ```sh
