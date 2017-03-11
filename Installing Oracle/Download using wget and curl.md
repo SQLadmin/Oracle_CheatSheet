@@ -25,12 +25,16 @@ Downloading Oracle in linux is a bit tricky. Oracle provide a shell schript to d
 	 apt-get install wget curl
 
 	-- For RedHat,Centos and Amazon Linux
-	 yum install wget curl```	
+	 yum install wget curl
+	 ```
+
+
 
 5. Now type the below command to download via wget. 
 	
 
     `wget <paste the like> -O filename.zip`
+    
     Eg: 
 
 	```sh 
