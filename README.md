@@ -14,4 +14,4 @@ This is a documentation for beginners who wants to learn Oracle DBA stuffs, I'm 
 * [Technical Terms](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Oracle%20Internals/Technical%20Terms.md)
 
 ###Installing Oracle
-* [Download using wget, curl](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Oracle%20Internals/Technical%20Terms.md)
+* [Download using wget, curl](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Installing%20Oracle/Download%20using%20wget%20and%20curl.md)
