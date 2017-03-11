@@ -4,7 +4,8 @@ Downloading Oracle in linux is a bit tricky. Oracle provide a shell schript to d
 
 > Do this in your GUI browser, like chrome or firefox.
 
-1. First create an account in oracle and [Signin](https://login.oracle.com/mysso/signon.jsp). 
+1. First create an account in oracle and [Signin](https://login.oracle.com/mysso/signon.jsp).
+
 	![](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Images/Oracle%20download-signin.png)
 
 1. [Click here](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) to download oracle for Linux and accept the license. 
@@ -27,4 +28,5 @@ Downloading Oracle in linux is a bit tricky. Oracle provide a shell schript to d
     wget <paste the like> -O filename.zip
     Eg: 
     wget http://download.oracle.com/otn/linux/oracle12c/122010/linuxx64_12201_database.zip?AuthParam=111111111_cb3a26b3a63c89b4405a1e32822d19fc -O file1.zip
+    
 ![](https://github.com/SqlAdmin/Oracle_CheatSheet/blob/master/Images/Oracledownload-wget.png)
