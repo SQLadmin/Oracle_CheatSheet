@@ -2,7 +2,7 @@
 
 Downloading Oracle in linux is a bit tricky. Oracle provide a shell schript to download oracle, but for me it was taking more time to download, So here is the trick. 
 
-> Do this in your GUI browser, like chrome or firefox.
+> ## Do this in your GUI browser, like chrome or firefox.
 
 *  First create an account in oracle and [Signin](https://login.oracle.com/mysso/signon.jsp).
 
