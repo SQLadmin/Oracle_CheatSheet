@@ -276,6 +276,27 @@ Now execute the below command to create the database.
 dbca -silent -responseFile /ora01/app/oracle/distribs/database/response/dbca.rsp
 ```
 
+Alternatively,
+
+```sh
+dbca \
+-silent \
+-createDatabase \
+-templateName General_Purpose.dbc   \
+-gdbName ORA12C \
+-pdbadminPassword oracle \
+-SysPassword oracle \
+-SystemPassword oracle \
+-emConfiguration NONE \
+-datafileDestination /ora01/app/oracle/oradata \
+-asmSysPassword oracle \
+-characterSet AL32UTF8 \
+-totalMemory 6000 \
+-recoveryAreaDestination /ora01/app/oracle/flash_recovery_area
+
+THIS IS FOR STANDARD EDITION
+```
+
 Thats it!! :) 
 
 
